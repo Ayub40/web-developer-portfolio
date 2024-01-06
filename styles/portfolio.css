@@ -169,7 +169,8 @@ main section {
     font-weight: 700;
     margin-bottom: 10px;
 }
-.resume-item-institute{
+
+.resume-item-institute {
     margin-bottom: 20px;
     margin-top: 0px;
 }
@@ -178,10 +179,20 @@ main section {
 .resume-item-institute {
     color: #757575;
 }
+
 .resume-container hr {
     margin: 30px;
 }
-.downolad-cv{
+
+.downolad-cv {
     text-align: center;
     margin-top: 50px;
+}
+
+/* footer style */
+footer {
+    display: flex;
+    background: #FFF8F3;
+    padding: 130px 200px;
+    margin-top: 100px;
 }
