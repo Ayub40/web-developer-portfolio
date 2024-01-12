@@ -28,7 +28,7 @@ nav {
 }
 
 .nav-title {
-    color: var(--Dark-01, #181818);
+    color: #181818;
     font-size: 45px;
     font-weight: 800;
 }
@@ -111,6 +111,7 @@ main section {
     text-align: center;
     font-size: 18px;
 }
+
 
 .about {
     padding: 131px;
@@ -201,11 +202,13 @@ footer {
 .footer-column {
     width: 50%;
 }
-.social-links a{
+
+.social-links a {
     margin-right: 25px;
 }
 
-.contact input[type="text"], .contact input[type="email"],
+.contact input[type="text"],
+.contact input[type="email"],
 textarea {
     display: block;
     margin-bottom: 25px;
